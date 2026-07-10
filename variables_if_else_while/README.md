@@ -3,3 +3,4 @@
 *`2-print_alphabet.c`This task wants you to print the alphabet in lowercase followed by a new line.
 *`3-print_alphabets.c`This task wants you to print the alphabet in lowercase, and then in uppercase, followed by a new line.
 *`4-print_alphabt.c`This task wants you to Write a program that prints the alphabet in lowercase, followed by a new line.
+*`5-print_numbers.c`This task wants you to program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
