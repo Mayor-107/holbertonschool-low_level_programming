@@ -5,3 +5,4 @@
 *`4-print_alphabt.c`This task wants you to Write a program that prints the alphabet in lowercase, followed by a new line.
 *`5-print_numbers.c`This task wants you to program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 *`6-print_numberz.c`This task wants you to Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+*`7-print_tebahpla.c`Print lowercase alphabet, followed by a new line.
