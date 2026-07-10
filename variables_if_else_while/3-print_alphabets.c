@@ -13,15 +13,19 @@ int main(void)
 	char ch;
 
 	/* Loop 1: Lowercase letters */
-	for (ch	= 'a'; ch <= 'z'; ch++)
+	ch = 'a';
+	while (ch <= 'z')
 	{
 		putchar(ch);
+		ch++;
 	}
 
 	/* Loop 2: Uppercase letters */
-	for (ch	'A'; ch <= 'Z'; ch++)
+	ch = 'A';
+	while (ch <= 'Z')
 	{
 		putchar(ch);
+		ch++;
 	}
 
 	/* Print the final newline */
