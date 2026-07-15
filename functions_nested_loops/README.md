@@ -5,3 +5,4 @@
 *`Task 4` This function checks for alphabetic character.
 *`Task 5` This function prints sign of a number.
 *`Task 6` This function computes the absolute value of an integer.
+*`Task 7` This function prints the last digit of a number.
