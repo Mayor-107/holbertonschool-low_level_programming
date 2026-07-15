@@ -6,3 +6,4 @@
 *`Task 5` This function prints sign of a number.
 *`Task 6` This function computes the absolute value of an integer.
 *`Task 7` This function prints the last digit of a number.
+*`Task 8` This function prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
