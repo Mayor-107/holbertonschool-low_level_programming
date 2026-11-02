@@ -8,3 +8,4 @@ This directory contains shell scripts in regards to the low-level language which
 * `3-name`: Compiles a C file and creates an executable named cisfun.
 * `4-puts.c`: Prints exactly "Programming is like building a multilingual puzzle", followed by a new line.
 * `5-printf.c`: C program that prints exactly "with proper grammer, but the outcome is a piece of art,", followed by a new line.
+* `6-size.c`: C program prints the size of various types on the computer it is compiled and run on.
