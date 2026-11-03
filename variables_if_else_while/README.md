@@ -8,3 +8,4 @@ This directory contains C - program files in regards Variables, if, else, while 
 * `3-print_alphabets.c`: Program prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 * `4-print_alphabt.c`: Program prints the alphabet in lowercase, followed by a new line except for 'q' and 'e'.
 * `5-print_numbers.c`: Program prints all single digit numbers of base 10 starting from 0, followed by a new line.
+* `6-print_numberz.c`: Prints all single digit numbers of base 10 starting from 0, followed by a new line.
