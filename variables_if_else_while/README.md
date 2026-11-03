@@ -4,3 +4,4 @@ This directory contains C - program files in regards Variables, if, else, while 
 
 * `0-positive_or_negative.c`: Assigns a random number to the variable n each time it is executed, whether positive or negative.
 * `1-last_digit.c`: Program assigns a random number to the variable n each time it is executed.
+* `2-print_alphabet.c`: This program prints the alphabet in lowercase, followed by a new line.
