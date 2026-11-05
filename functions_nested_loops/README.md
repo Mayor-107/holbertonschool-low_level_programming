@@ -8,3 +8,4 @@ This directory contains C - program files in regards to functions and nested loo
 * `3-islower.c`: Written function that checks for lowercase character.
 * `4-isalpha.c`: Written function that checks for alphabetic character.
 * `5-sign.c`: function prints the sign of a number.
+* `6-abs.c`: Computes the absolute value of an integer.
