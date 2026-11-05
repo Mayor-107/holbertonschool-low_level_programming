@@ -7,3 +7,4 @@ This directory contains C - program files in regards to functions and nested loo
 * `2-print_alphabet_x10.c`: Prints 10 times the alphabet, in lowercase, followed by a new line.
 * `3-islower.c`: Written function that checks for lowercase character.
 * `4-isalpha.c`: Written function that checks for alphabetic character.
+* `5-sign.c`: function prints the sign of a number.
