@@ -12,3 +12,4 @@ This directory contains C - program files in regards to more functions and more 
 * `7-print_diagonal.c`: Draws a diagonal line on the terminal.
 * `8-print_square.c`: Prints a square, followed by a new line.
 * `9-fizz_buzz.c`: prints the numbers from 1 to 100, followed by a new line.
+* `10-print_triangle.c`: prints a triangle, followed by a new line.
