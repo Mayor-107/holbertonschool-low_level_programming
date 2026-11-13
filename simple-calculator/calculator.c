@@ -5,6 +5,7 @@ void if_else_loops(void);
 void add_numbers(void);
 void sub_numbers(void);
 void times_numbers(void);
+void div_numbers(void);
 
 /**
  * print_menus - Displays each new line of what's on the menu.
@@ -51,9 +52,9 @@ void if_else_loops(void)
 		{
 			times_numbers();
 		}
-		else if (choice <= 4)
+		else if (choice == 4)
 		{
-			printf("Operation not implemented yet.\n");
+			div_numbers();
 		}
 		else
 		{
@@ -128,6 +129,34 @@ void times_numbers(void)
  * main - Starts, executes, and exits the program calculator.
  * Return: Always (0)
  */
+
+
+
+/**
+ * Div_numbers - Prompts for two numbers, handles division by zero,
+ * computes the quotient as a decimal, and prints the result.
+ */
+
+void div_numbers(void)
+{
+	float a, b, result;
+
+	printf("A: ");
+	scanf("%f", &a);
+	printf("B: ");
+	scanf("%f", &b);
+
+	if (b == 0)
+	{
+		printf("Error: division by zero\n");
+	}
+	else
+	{
+		result = a / b;
+		printf("Result: %.1f\n", result);
+	}
+}
+
 
 int main(void)
 {
