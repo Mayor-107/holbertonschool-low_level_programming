@@ -3,7 +3,7 @@
 void print_menus(void);
 void if_else_loops(void);
 void add_numbers(void);
-
+void sub_numbers(void);
 
 /**
  * print_menus - Displays each new line of what's on the menu.
@@ -42,7 +42,11 @@ void if_else_loops(void)
 		{
 			add_numbers();
 		}
-		else if (choice >= 2 && choice <= 4)
+		else if (choice == 2)
+		{
+			sub_numbers();
+		}
+		else if (choice >= 3 && choice <= 4)
 		{
 			printf("Operation not implemented yet.\n");
 		}
@@ -56,7 +60,7 @@ void if_else_loops(void)
 
 
 /**
- * add_numbers - Prompts for two numbers computes the sum,
+ * add_numbers - Prompts for two numbers, computes the sum,
  * and prints the result.
  */
 
@@ -70,6 +74,26 @@ void add_numbers(void)
 	scanf("%d", &b);
 
 	result = a + b;
+	printf("Result: %d\n", result);
+}
+
+
+
+/**
+ * sub_numbers - Prompts for two numbers, computes the sum,
+ * and prints the result.
+ */
+
+void sub_numbers(void)
+{
+	int a, b, result;
+
+	printf("A: ");
+	scanf("%d", &a);
+	printf("B: ");
+	scanf("%d", &b);
+
+	result = a - b;
 	printf("Result: %d\n", result);
 }
 
