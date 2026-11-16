@@ -11,4 +11,5 @@ This directory contains C - program files in regards to Pointers, arrays and str
 * `6-puts2.c`: prints every other character of a string, starting with the first character, followed by a new line.
 * `7-puts_half.c`: Prints half of a stringm followed by a new line.
 * `8-print_array.c`: Prints `n` elements of an array of integers, followed by a new line.
-* `9-strcpy.c`: copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest. 
+* `9-strcpy.c`: copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+* `100-atoi.c`: converts a string to an integer.
