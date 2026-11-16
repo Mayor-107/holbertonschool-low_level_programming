@@ -9,3 +9,4 @@ This directory contains C - program files in regards to Pointers, arrays and str
 * `4-print_rev.c`: prints a string, in reverse, followed by a new line.
 * `5-rev_string.c`: Reverses a string.
 * `6-puts2.c`: prints every other character of a string, starting with the first character, followed by a new line.
+* `7-puts_half.c`: Prints half of a stringm followed by a new line.
